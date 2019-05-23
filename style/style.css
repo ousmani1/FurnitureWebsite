@@ -1,0 +1,24 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    background: rgba(0, 0, 0, 0.50);
+    filter: brightness(50%);
+}
+
+.navbar-brand {
+    margin-left: -7.5%;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.nav-item { 
+    color: white;
+}
+
